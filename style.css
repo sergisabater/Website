@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+  background-color: #f7f7f7;
+}
+a {
+  display: inline-block;
+  margin: 1em 0;
+  color: #3366cc;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+a:hover {
+  text-decoration: underline;
+}
